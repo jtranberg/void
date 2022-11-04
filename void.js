@@ -3,3 +3,7 @@ var annonUser = function (num) {
         alert('HIIIII!');
     }
 };
+function printTwice(msg) {
+    console.log(msg);
+    console.log(msg);
+}

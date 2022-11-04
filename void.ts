@@ -3,3 +3,8 @@ const annonUser = (num:number): void => {
         alert('HIIIII!');
     }
 }
+
+function printTwice(msg:string): void  {     //does not return anything
+    console.log(msg)
+    console.log(msg)
+}
